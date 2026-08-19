@@ -1,0 +1,13 @@
+{
+  "schema": "storeamo.app.v1",
+  "id": "miapi",
+  "name": "MiAPI",
+  "tagline": "Mirá cómo responde un endpoint.",
+  "description": "Inspección reproducible de status, tiempo, headers y cuerpo de respuestas HTTP.",
+  "category": "Desarrollo",
+  "featured": false,
+  "status": "development",
+  "supported_platforms": ["android", "windows", "macos", "linux"],
+  "store": {"screenshots": []},
+  "verification": {"policy": "storeamo-default-v1", "required_checks": ["tests", "integrity"]}
+}
